@@ -1,3 +1,5 @@
+1st::
+
 my_boolean = True 
 print(my_boolean)
 
@@ -9,3 +11,20 @@ print("hello" == "hello")
 result :: true
           false
           true
+
+2nd::
+
+
+my_boolean = True
+
+print(1 != 1)
+
+print("senku" != "chan")
+
+print("five" != "robot")
+
+result::
+  
+  false
+  true
+  true
