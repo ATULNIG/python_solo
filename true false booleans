@@ -28,3 +28,28 @@ result::
   false
   true
   true
+ 
+ 3rd::
+ 
+ my_boolean = True
+print(3>4)
+print(7<8)
+print(9<9)
+
+result::
+false
+true
+false
+
+4th::
+
+my_boolean = True
+print(9<=3)
+print(7>=8)
+print(5<=6)
+
+result::
+
+false 
+false
+true
