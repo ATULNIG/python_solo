@@ -1,0 +1,5 @@
+num = 45
+if num > 5:
+	print("bigger than 45")
+	if num <=90:
+		print("between 45 and 90")
